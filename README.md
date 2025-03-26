@@ -10,32 +10,24 @@
 
 ---
 
+<!-- Developer GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="320px" alt="Coding GIF" />
+</p>
+
+---
+
 ## 🎨 **About Me**  
 💻 Passionate **Frontend Developer** | Crafting **Interactive & Scalable** Web Experiences 🚀  
 💡 Bringing **designs to life** with sleek, modern & responsive UI/UX  
 ✨ **Obsessed** with perfecting **CSS animations & micro-interactions**  
-🌱 **Currently Learning:** Advanced **TypeScript, Next.js & AI-powered UI/UX**
+🌱 **Currently Learning:** Advanced **TypeScript, Next.js & AI-powered UI/UX**  
 
 ---
 
 ## 🚀 **Tech Stack**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,tailwind,bootstrap,redux,vscode,figma,git,github,nodejs,mongodb,postgresql,python&perline=6" />
-</p>
-
----
-
-## 🌍 **Connect with Me**
-<p align="center">
-  <a href="https://linkedin.com/in/bhumee-sethi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bhumee413@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/bhumeesethi" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -59,7 +51,12 @@
 
 ---
 
-## 🖥️ **Latest Projects**
+## 🏗️ **Current Projects & Activity**
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhumeesethi&theme=tokyo-night)](https://github.com/bhumeesethi)
+
+---
+
+## 🖥️ **Recent Projects**
 📌 **Netflix Clone** (React) — *A responsive Netflix UI replica*  
 🌦️ **Weather App** (HTML, CSS, JavaScript) — *Live weather tracking*  
 🎵 **Spotify Clone** (Angular) — *Music streaming UI with real-time data*  
@@ -67,8 +64,18 @@
 
 ---
 
-## 🏗️ **What I’m Building Right Now**
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhumeesethi&theme=tokyo-night)](https://github.com/bhumeesethi)
+## 🌍 **Connect with Me**
+<p align="center">
+  <a href="https://linkedin.com/in/bhumee-sethi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bhumee413@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/bhumeesethi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -84,7 +91,9 @@
 
 ---
 
+<!-- Footer with Wave Effect -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
+</p>
+
 ✨ *Designed & Built with ❤️ by [Bhumee Sethi](https://github.com/bhumeesethi)* ✨  
-
-
-see you create me this arlier now mix up my nw one 
