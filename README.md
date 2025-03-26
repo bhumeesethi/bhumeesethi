@@ -1,90 +1,88 @@
+<!-- Header with Typing Animation -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Hi, I'm Bhumee Sethi!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  Hey there, I'm Bhumee Sethi!
 </h1>
 
-<h3 align="center">🚀 Passionate Frontend Developer | Crafting Interactive & Scalable Web Experiences</h3>
-
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=1C71FA&center=true&vCenter=true&multiline=true&width=600&lines=Frontend+Developer+%7C+React+%7C+Angular+%7C+Next.js;Passionate+about+UI%2FUX+and+Web+Animations;Always+Learning+%26+Building+Awesome+Stuff!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=650&lines=🚀+Frontend+Developer+|+React+%7C+Angular+%7C+Next.js;🎨+UI%2FUX+Enthusiast+%7C+Web+Animations+Lover;📌+Detail-Oriented+Developer+%7C+Always+Exploring+New+Tech!" />
 </p>
 
 ---
 
-## 👀 What I’m Into  
-🚀 I love building sleek, responsive, and user-friendly web applications! My stack revolves around:  
-
-- **Frontend:** React.js, Angular, Next.js, Tailwind CSS  
-- **Backend:** Node.js, Python  
-- **Databases:** MongoDB, PostgreSQL  
-
-### 🌱 Currently Learning  
-🔹 Advanced **TypeScript** and **Next.js** for better scalability  
-🔹 **State Management** techniques in React & Angular  
-🔹 Exploring **AI-powered UI/UX** improvements  
+## 🎨 **About Me**  
+💻 Passionate **Frontend Developer** | Crafting **Interactive & Scalable** Web Experiences 🚀  
+💡 Bringing **designs to life** with sleek, modern & responsive UI/UX  
+✨ **Obsessed** with perfecting **CSS animations & micro-interactions**  
+🌱 **Currently Learning:** Advanced **TypeScript, Next.js & AI-powered UI/UX**
 
 ---
 
-## 💡 Looking to Collaborate On  
-- 🚀 Open-source projects related to **web development**  
-- 🎨 Creative & interactive **frontend applications**  
-- 💡 Anything that challenges my **coding skills!**  
-
----
-
-## 📫 How to Reach Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhumee-sethi)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhumee413@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhumeesethi)  
-
----
-
-## 🚀 Tech Stack  
+## 🚀 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,tailwind,bootstrap,redux,vscode,figma,git,github,nodejs,mongodb,postgresql,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,tailwind,bootstrap,redux,vscode,figma,git,github,nodejs,mongodb,postgresql,python&perline=6" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Activity  
+## 🌍 **Connect with Me**
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhumeesethi&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhumeesethi&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumeesethi&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhumeesethi&theme=onedark&no-bg=true&no-frame=true" />
+  <a href="https://linkedin.com/in/bhumee-sethi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bhumee413@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/bhumeesethi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🖥️ Latest Projects  
-🚀 **Netflix Clone** (React)  
-🌦️ **Weather App** (HTML5, CSS3, JavaScript)  
-🎵 **Spotify Clone** (Angular)  
-🎮 **Subway Surfers Clone** (ReactJS, MongoDB)  
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhumeesethi&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=bhumeesethi&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumeesethi&layout=compact&theme=radical&hide_border=true" width="40%" />
+</p>
 
 ---
 
-## ⚡ Fun Fact  
-🎨 I can spend hours perfecting **CSS animations** & tweaking UI elements—because **details matter!**  
-💡 I love **UI/UX design** and constantly explore **new web trends!**  
+## 🏆 **GitHub Achievements**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bhumeesethi&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</p>
 
 ---
 
-## 🐍 Contribution Snake  
+## 🖥️ **Latest Projects**
+📌 **Netflix Clone** (React) — *A responsive Netflix UI replica*  
+🌦️ **Weather App** (HTML, CSS, JavaScript) — *Live weather tracking*  
+🎵 **Spotify Clone** (Angular) — *Music streaming UI with real-time data*  
+🎮 **Subway Surfers Clone** (ReactJS, MongoDB) — *Game mechanics & physics*  
+
+---
+
+## 🏗️ **What I’m Building Right Now**
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhumeesethi&theme=tokyo-night)](https://github.com/bhumeesethi)
+
+---
+
+## 🔥 **Fun Fact**
+🎨 I can spend **hours** perfecting **CSS animations** & tweaking UI elements—because **details matter!**  
+
+---
+
+## 🐍 **Animated Contribution Snake**
 <p align="center">
   <img src="https://github.com/bhumeesethi/bhumeesethi/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-🎨 **Designed & Built with ❤️ by [Bhumee Sethi](https://github.com/bhumeesethi)**  
+✨ *Designed & Built with ❤️ by [Bhumee Sethi](https://github.com/bhumeesethi)* ✨  
+
