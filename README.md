@@ -1,7 +1,31 @@
 # <h2 align="center">
   🚀 Hey there, I'm Bhumee Sethi! 👋
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B32D&center=true&width=435&lines=Passionate+Frontend+Developer;Crafting+Interactive+Web+Experiences;UI%2FUX+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+ <div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px" alt="Coding GIF" />
+  
+  <br>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF5733&width=600&center=true&lines=%E2%9C%A8+Frontend+Magician+%F0%9F%8E%A9;Code+%2B+Creativity+%3D+Magic!+%F0%9F%8E%AF;Pixel-Perfect+UI+Architect!+%F0%9F%A4%96;Debugging+like+a+Superhero+%F0%9F%A4%9D;Transforming+Ideas+into+Reality!+%F0%9F%92%A1" alt="Typing SVG" />
+
+  <br>
+
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100px" />
+  <img src="https://media.giphy.com/media/Y4bzv6DYbYztz9k0n6/giphy.gif" width="100px" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100px" />
+  <img src="https://media.giphy.com/media/l41m2IHKm7wV2q0bC/giphy.gif" width="100px" />
+  
+  <br>
+
+  <a href="https://www.linkedin.com/in/bhumee-sethi" target="_blank">
+    <img src="https://img.shields.io/badge/-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/bhumeesethi?tab=repositories">
+    <img src="https://img.shields.io/badge/-Explore%20My%20Work-orange?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
 </h2>
 
 ---
