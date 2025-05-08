@@ -1,18 +1,18 @@
-<!-- Header with Typing Animation -->
+<!-- Animated Header -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
-  <strong>Hey there, I'm Bhumee Sethi!</strong>
+  <strong><span style="display:inline-block; animation: pulse 1.2s infinite">Hey there, I'm Bhumee Sethi!</span></strong>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=650&lines=🚀+Frontend+Developer+|+React+%7C+Angular+%7C+Next.js;🎨+UI%2FUX+Enthusiast+%7C+Web+Animations+Lover;📌+Detail-Oriented+Developer+%7C+Always+Exploring+New+Tech!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=700&lines=🚀+Frontend+Developer+|+React+%7C+Angular+%7C+Next.js;🎨+UI%2FUX+Enthusiast+%7C+Web+Animations+Lover;📌+Detail-Oriented+Developer+%7C+Always+Exploring+New+Tech!" />
 </p>
 
 <hr/>
 
-<!-- Developer GIF -->
+<!-- Animated Developer GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="320px" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="320px" alt="Coding GIF" style="border-radius: 16px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);" />
 </p>
 
 <hr/>
@@ -89,13 +89,6 @@
 
 <hr/>
 
-## 🐍 **Animated Contribution Snake**
-<p align="center">
-  <img src="https://github.com/bhumeesethi/bhumeesethi/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
-<hr/>
-
 <!-- Footer with Wave Effect -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
@@ -104,3 +97,11 @@
 <p align="center">
   ✨ <em>Designed & Built with ❤️ by <a href="https://github.com/bhumeesethi">Bhumee Sethi</a></em> ✨
 </p>
+
+<style>
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); color: #FF8C00; }
+  100% { transform: scale(1); }
+}
+</style>
