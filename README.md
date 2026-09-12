@@ -22,7 +22,7 @@ I enjoy working across the complete analytics lifecycle:
 
 **Raw Data → Data Cleaning → SQL → Python → EDA → Visualization → Power BI → Business Insights**
 
-My technical background helps me approach analytical problems with strong **problem-solving, database, API, application logic, and data-handling skills**.
+My technical background gives me a strong foundation in **problem-solving, databases, APIs, application logic, and building data-driven solutions**.
 
 ### 🔎 Areas I Work With
 
@@ -60,7 +60,7 @@ My technical background helps me approach analytical problems with strong **prob
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Project
 
 ## 📊 Customer Churn, Revenue & Retention Intelligence
 
@@ -98,32 +98,11 @@ An end-to-end subscription analytics project focused on understanding **customer
 
 ---
 
-## 🚨 Real-Time Fraud Detection & Transaction Risk Dashboard
+# 🤖 AI & Data-Driven Applications
 
-**Python • SQL • Scikit-Learn • Streamlit / Power BI**
+My development experience includes building applications that combine **AI, APIs, databases, dashboards, and business workflows**.
 
-A data analytics project focused on identifying fraudulent transaction patterns and analyzing transaction risk through interactive dashboards.
-
-### 🔍 Focus Areas
-
-- Transaction analysis
-- Fraud pattern identification
-- Risk segmentation
-- Data cleaning
-- SQL analysis
-- Data visualization
-- Machine learning evaluation
-- Business-focused insights
-
----
-
-## 🤖 AI-Powered Data & Business Applications
-
-**Next.js • APIs • PostgreSQL • AI**
-
-Built data-driven applications involving AI workflows, API integrations, database systems, dashboards, and structured business processes.
-
-Experience includes:
+### Areas of Experience
 
 - API integrations
 - Database-backed applications
@@ -131,6 +110,11 @@ Experience includes:
 - AI-powered workflows
 - Dashboard interfaces
 - Structured data processing
+- Business-focused application logic
+
+### Technologies
+
+`Next.js` `TypeScript` `PostgreSQL` `REST APIs` `AI Tools`
 
 ---
 
@@ -142,7 +126,7 @@ Strengthening my knowledge in:
 
 `Data Analytics` • `Analytical Thinking` • `SQL` • `Data Cleaning` • `Data Visualization` • `Business Analysis`
 
-My focus is on understanding **why an analysis is performed, how the data should be interpreted, and how insights can support business decisions**.
+My focus is on understanding **why an analysis is performed, how data should be interpreted, and how insights can support business decisions**.
 
 ---
 
@@ -171,7 +155,7 @@ My focus is on understanding **why an analysis is performed, how the data should
 
 I'm interested in opportunities in:
 
-**Data Analytics • Business Intelligence • Reporting • Data Visualization • BI Analytics**
+**Data Analyst • BI Analyst • Business Intelligence • Reporting • Data Visualization**
 
 I enjoy combining **technical problem-solving, data analysis, and business understanding** to turn raw data into meaningful insights.
 
